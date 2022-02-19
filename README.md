@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JianerCong
-- 📫 How to reach me : congjianer@outlook.com
 
 <!---
 JianerCong/JianerCong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
